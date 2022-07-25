@@ -2,7 +2,7 @@
 
 #### Find my CV <a href="https://github.com/S-Spiegl/Steven-Spiegl-CV">here</a>
 
-Technologies include Ruby, Javascript, React, MongoDB and SQL among others. 
+Technologies include Ruby, JavaScript, React, MongoDB and SQL among others. 
 
 🌱 Currently learning C#, Python and Rails
 
