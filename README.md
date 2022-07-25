@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Stevie 👋
 
 #### Find my CV <a href="https://github.com/S-Spiegl/Steven-Spiegl-CV">here</a>
+
+Technologies include Ruby, Javascript, React, MongoDB and SQL among others. 
+
+🌱 Currently learning C#, Python and Rails
+
+🤝 Looking to collaborate on any exciting ideas
+
+Pronouns: he/him
 
 <!--
 **S-Spiegl/S-Spiegl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
