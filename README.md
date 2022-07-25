@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find my CV here - https://github.com/S-Spiegl/Steven-Spiegl-CV
+#### Find my CV <a href="https://github.com/S-Spiegl/Steven-Spiegl-CV">here</a>
 
 <!--
 **S-Spiegl/S-Spiegl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
