@@ -4,7 +4,7 @@
 
 Technologies include Ruby, JavaScript, React, MongoDB and SQL among others. 
 
-🌱 Currently learning C#, Python and Rails
+🌱 Currently learning C#.
 
 🤝 Looking to collaborate on any exciting ideas
 
