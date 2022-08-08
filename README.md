@@ -1,4 +1,9 @@
-### Hi there, I'm Stevie 👋
+## Hi there, I'm Stevie 👋
+
+### Whilst not employed I am deployed:
+<a href="https://chitter5.herokuapp.com/">Chitter</a><<<br>
+<a href="https://rock-paper-spiegl-two.herokuapp.com">Rock Paper Scissors</a><<<br>
+<a href ="https://lacebook.herokuapp.com/">Acebook</a><<
 
 #### Find my CV <a href="https://github.com/S-Spiegl/Steven-Spiegl-CV">here</a>
 
