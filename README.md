@@ -1,7 +1,7 @@
 ## Hi there, I'm Stevie 👋
 
 ### Whilst not employed I am deployed:
-<a href="https://chitter5.herokuapp.com/">Chitter</a><<<br>
+<a href="https://chitter5.herokuapp.com/">Chitter</a><<(due to a bug, after signing up return to the login page in order to be able to post)<br>
 <a href="https://rock-paper-spiegl-two.herokuapp.com">Rock Paper Scissors</a><<<br>
 <a href ="https://lacebook.herokuapp.com/">Acebook</a><<
 
